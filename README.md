@@ -5,7 +5,8 @@ A Snapchat geofilters are special overlays that appears on your pictures or snap
 
 <p align="center">
   <img width="240" height="450" src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/UniversialStudio.jpg">
-  Here's a Snapchat Geofilter at Universial Studios! 
+   <br>
+  <em> Here's a Snapchat Geofilter at Universial Studios! </em>
 </p>
 
 ## Metric 
