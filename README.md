@@ -6,5 +6,6 @@ A Snapchat geofilters are special overlays that appears on your pictures or snap
 
 
 ## Metric 
-As of September 2020, the Snapchat Geofilter that I created have recieved over 5.7 millions+ and 286.9 millions+ views. 
+As of September 2020, the Snapchat Geofilter that I created have recieved over 5.7 millions+ uses and 286.9 millions+ views. My Snapchat Geofilters can be accessed at various cities around the United States such as San Francisco, Washington DC, and Charlotte. 
+
 ![Metrics of my Snapchat Geofilter](https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Metrics.png)
