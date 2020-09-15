@@ -19,9 +19,13 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
   For better viewing of the Snapchat Geofilters, please click on any of the Snapchat Geofilters to be redirect to the desired overlay! 
 </p>
 <p align="center">
-   <kbd>
-    <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
-    <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
-    <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">
-   <kbd>
+    <kbd>
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Charlotte.png" width="240" height="450">&nbsp;&nbsp;
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Elon.png" width="240" height="450">
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Liberty.png" width="240" height="450">
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Mebane.png" width="240" height="450">
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Raleigh.png" width="240" height="450">
+    <kbd>
+   <em> Here's a Snapchat Geofilter at various locations in North Carolina! </em>
 </p>
