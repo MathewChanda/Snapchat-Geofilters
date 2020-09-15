@@ -18,8 +18,8 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
 <p align="center">
   For better viewing of the Snapchat Geofilters, please click on any of the Snapchat Geofilters to be redirect to the desired overlay! 
 </p>
-<p align="center" width = 1000 >
-    <kbd>
+<p align="center">
+    <kbd  width = 1000>
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Charlotte.png" width="240" height="450">&nbsp;&nbsp;
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Elon.png" width="240" height="450">&nbsp;&nbsp;
@@ -39,7 +39,7 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Washington%20DC.png" width="240"  height="450">&nbsp;&nbsp;
     <kbd>
 </p>
-<p align="center">
+<p align="center" width = 1000>
   <em> Here's a Snapchat Geofilter at various locations such as Chinatown(CA), Myrtle Beac (SC), and Washington DC (VA) ! </em>
 </p>
 
