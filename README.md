@@ -43,6 +43,6 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
     <kbd>
 </p>
 <p align="center" width = 1000>
-  <em> Here's a Snapchat Geofilter at various locations such as Chinatown(CA), Myrtle Beac (SC), and Washington DC (VA) ! </em>
+  <em> Here's a Snapchat Geofilter at various locations such as Chinatown (CA), Myrtle Beac (SC), and Washington DC (VA) ! </em>
 </p>
 
