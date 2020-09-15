@@ -36,7 +36,7 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
     <kbd>
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Chinatown_CA.png" width="240" height="450">&nbsp;&nbsp;
       <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Myrtle%20Beach.png" width="240" height="450">&nbsp;&nbsp;
-      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Washington%20DC.png" height="450">&nbsp;&nbsp;
+      <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Washington%20DC.png" width="240"  height="450">&nbsp;&nbsp;
     <kbd>
 </p>
 <p align="center">
