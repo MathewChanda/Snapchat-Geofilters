@@ -15,14 +15,11 @@ As of September 2020, the Snapchat Geofilter that I created have recieved over 5
 ![Metrics of my Snapchat Geofilter](https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Metrics.png)
 
 ## Snapchat Geofilters Created by me 
+
 <span>
    <kbd>
     <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
-   <kbd>
-   <kbd>
     <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">&nbsp;&nbsp;
-   <kbd>
-   <kbd>
     <img src="https://github.com/MathewChanda/Snapchat-Geofilters/blob/master/Snapchat%20Geofilter/Burlington.png" width="240" height="450">
    <kbd>
 </span>
